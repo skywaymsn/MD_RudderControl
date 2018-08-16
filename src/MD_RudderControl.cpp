@@ -1,7 +1,7 @@
 
 #include <Arduino.h>
 #include <MD_RudderControl.h> // https://github.com/skywaymsn/MD_RudderControl
-#include <MD_CompassBearing/src/MD_CompassBearing.h> // https://github.com/skywaymsn/MD_CompassBearing
+#include <MD_CompassBearing/src/MD_Compass.h> // https://github.com/skywaymsn/MD_CompassBearing
 
 namespace MD {
 
